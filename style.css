@@ -2,3 +2,10 @@ html {
   margin: 0;
   height: 100%; 
 }
+
+body {
+  background-image: url("minecraft-assets/minecraft_background_with_title.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
